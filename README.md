@@ -1,3 +1,4 @@
+<img width="1280" height="640" alt="eta_app-vehiculos" src="https://github.com/user-attachments/assets/b33335fc-a7d4-434d-b8c0-0aff711895c9" />
 Eta-used-vehicle-web-application
 
 Esta aplicación web fue desarrollada con Streamlit para explorar un conjunto de datos de anuncios de vehículos usados.
